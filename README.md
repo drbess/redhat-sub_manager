@@ -1,0 +1,1 @@
+redhat-sub_manager
