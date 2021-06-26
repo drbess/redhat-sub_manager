@@ -1,3 +1,5 @@
-RedHat-Subscription Manager Activation Script
+********** RedHat-Subscription Manager Activation && Repair Script **********
 
-This script will run a list of commands
+This is a repo to help those activate their Red Hat subsription.
+
+NOTE: these scripts only work with a Red Hat Developer account! 
